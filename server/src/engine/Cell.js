@@ -107,3 +107,5 @@ class Cell {
     return this.candidates.size > 0;
   }
 }
+
+export default Cell;
