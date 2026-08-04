@@ -3,6 +3,9 @@
 
 ### Node ###
 # Logs
+
+rough.js
+
 logs
 *.log
 npm-debug.log*
