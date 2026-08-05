@@ -1,11 +1,8 @@
-import React from 'react'
+import React from "react";
+import DifficultyPanel from "./components/DifficultyPanel/DifficultyPanel.jsx";
 
 function App() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return <DifficultyPanel />;
 }
 
-export default App
+export default App;
